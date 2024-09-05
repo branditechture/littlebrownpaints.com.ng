@@ -51,56 +51,49 @@
     var testimonialSlider = function ($scope, $) {
         $scope.find('.ot-testimonials-slider-s1').each( function () {
             var swiperContainer = $(this),
-                $show     = swiperContainer.data('show') ? swiperContainer.data('show') : 3,
-                $tshow    = swiperContainer.data('show-tablet') ? swiperContainer.data('show-tablet') : 2,
-                $mshow    = swiperContainer.data('show-mobile') ? swiperContainer.data('show-mobile') : 1,
-                $scro     = swiperContainer.data('scroll') ? swiperContainer.data('scroll') : 1,
-                $tscro    = swiperContainer.data('scroll-tablet') ? swiperContainer.data('scroll-tablet') : 1,
-                $mscro    = swiperContainer.data('scroll-mobile') ? swiperContainer.data('scroll-mobile') : 1,
-                $nextEl   = swiperContainer.find('.octf-swiper-button-next'),
-                $prevEl   = swiperContainer.find('.octf-swiper-button-prev'),
-                $pagi     = swiperContainer.find('.octf-swiper-pagination');
+                sliderSettings = swiperContainer.data('slider_options');
             
-                var config = {
-                    slidesPerView:  1,
-                    spaceBetween: 30,
-                    loop: true,
-                    speed: 800,
-                    slidesPerGroup: $scro,
-                    navigation: {
-                        nextEl: $nextEl,
-                        prevEl: $prevEl,
+            var config = {
+                slidesPerView:  1,
+                spaceBetween: 30,
+                loop: true,
+                speed: 800,
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                pagination: {
+                    el: swiperContainer.find('.octf-swiper-pagination'),
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev'),
+                },
+                breakpoints: {
+                    360: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile),
                     },
-                    pagination: {
-                        el: $pagi,
-                        clickable: true,
+                    768: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet),
                     },
-                    breakpoints: {
-                        360: {
-                            slidesPerView: $mshow,
-                            slidesPerGroup: $mscro,
-                        },
-                        768: {
-                            slidesPerView: $tshow,
-                            slidesPerGroup: $tscro,
-                        },
-                        1024: {
-                            slidesPerView: $show,
-                            slidesPerGroup: $scro,
-                        },
-                    }
+                    1024: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                    },
                 }
-            if ( window.elementorFrontend ) {
-                if ( window.elementorFrontend.isEditMode() ) {
-                    OTInitSwiper( swiperContainer, config );
-                } else {
-                    elementorFrontend.on('components:init', () => {
-                        OTInitSwiper( swiperContainer, config, elementorFrontend );
-                    });
-                }
-            } else {
-                OTInitSwiper( swiperContainer, config );
             }
+            // if ( window.elementorFrontend ) {
+            //     if ( window.elementorFrontend.isEditMode() ) {
+            //         OTInitSwiper( swiperContainer, config );
+            //     } else {
+            //         elementorFrontend.on('components:init', () => {
+            //             OTInitSwiper( swiperContainer, config );
+            //         });
+            //     }
+            // } else {
+            //     OTInitSwiper( swiperContainer, config );
+            // }
+            OTInitSwiper( swiperContainer, config );
         });
     };
 
@@ -110,61 +103,91 @@
     var testimonialSlider2 = function ($scope, $) {
         $scope.find('.ot-testimonials-slider-s2').each( function () {
             var swiperContainer = $(this),
-                $show     = swiperContainer.data('show') ? swiperContainer.data('show') : 1,
-                $tshow    = swiperContainer.data('show-tablet') ? swiperContainer.data('show-tablet') : 1,
-                $mshow    = swiperContainer.data('show-mobile') ? swiperContainer.data('show-mobile') : 1,
-                $scro     = swiperContainer.data('scroll') ? swiperContainer.data('scroll') : 1,
-                $tscro    = swiperContainer.data('scroll-tablet') ? swiperContainer.data('scroll-tablet') : 1,
-                $mscro    = swiperContainer.data('scroll-mobile') ? swiperContainer.data('scroll-mobile') : 1,
-                $effect   = swiperContainer.data('effect'),                
-                $nextEl   = swiperContainer.find('.octf-swiper-button-next'),
-                $prevEl   = swiperContainer.find('.octf-swiper-button-prev'),
-                $pagi     = swiperContainer.find('.octf-swiper-pagination');
+                sliderSettings = swiperContainer.data('slider_options'),
+                speed = swiperContainer.data('effect') == 'fade' ? 0 : 800;
+            
+            var config = {
+                slidesPerView:  1,
+                spaceBetween: 30,
+                loop: true,
+                speed: speed,
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                effect: swiperContainer.data('effect'),
+                fadeEffect: {
+                    crossFade: true
+                },
+                pagination: {
+                    el: swiperContainer.find('.octf-swiper-pagination'),
+                    clickable: true
+                },
+                navigation: {
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev')
+                },
+                breakpoints: {
+                    360: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile)
+                    },
+                    768: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet)
+                    },
+                    1024: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop)
+                    },
+                }
+            }
+            /*Swiper Init*/
+            OTInitSwiper( swiperContainer, config );
+        });
+    };
+
+    /* --------------------------------------------------
+    * testimonials 3
+    * --------------------------------------------------*/
+    var testimonialSlider3 = function ($scope, $) {
+        $scope.find('.ot-testimonials-slider-s3').each( function () {
+            var swiperContainer = $(this),
+                sliderSettings = swiperContainer.data('slider_options');
             
             var config = {
                 slidesPerView:  1,
                 spaceBetween: 30,
                 loop: true,
                 speed: 800,
-                slidesPerGroup: $scro,
-                effect: $effect,
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                effect: swiperContainer.data('effect'),
                 fadeEffect: {
                     crossFade: true,
                 },
                 pagination: {
-                    el: $pagi,
+                    el: swiperContainer.find('.octf-swiper-pagination'),
                     clickable: true,
                 },
                 navigation: {
-                    nextEl: $nextEl,
-                    prevEl: $prevEl,
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev'),
                 },
                 breakpoints: {
                     360: {
-                        slidesPerView: $mshow,
-                        slidesPerGroup: $mscro,
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile),
                     },
                     768: {
-                        slidesPerView: $tshow,
-                        slidesPerGroup: $tscro,
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet),
                     },
                     1024: {
-                        slidesPerView: $show,
-                        slidesPerGroup: $scro,
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
                     },
                 }
             }
-            if ( window.elementorFrontend ) {
-                if ( window.elementorFrontend.isEditMode() ) {
-                    OTInitSwiper( swiperContainer, config );
-                } else {
-                    elementorFrontend.on('components:init', () => {
-                        OTInitSwiper( swiperContainer, config, elementorFrontend );
-                    });
-                }
-            } else {
-                OTInitSwiper( swiperContainer, config );
-            }
+            
+            /*Swiper Init*/
+            OTInitSwiper( swiperContainer, config );
         });
     };
 
@@ -174,67 +197,47 @@
     var imageCarousel = function ($scope, $) {
         $scope.find('.image-carousel').each( function () {
             var swiperContainer  = $(this),
-                $show      = swiperContainer.data('show') ? swiperContainer.data('show') : 3,
-                $tshow     = swiperContainer.data('show-tablet') ? swiperContainer.data('show-tablet') : 2,
-                $mshow     = swiperContainer.data('show-mobile') ? swiperContainer.data('show-mobile') : 1,
-                $scro      = swiperContainer.data('scroll') ? swiperContainer.data('scroll') : 1,
-                $tscro     = swiperContainer.data('scroll-tablet') ? swiperContainer.data('scroll-tablet') : 1,
-                $mscro     = swiperContainer.data('scroll-mobile') ? swiperContainer.data('scroll-mobile') : 1,
-                $gaps      = swiperContainer.data('gaps') !== '' ? swiperContainer.data('gaps') : 140,
-                $tgaps     = swiperContainer.data('gaps-tablet') !== '' ? swiperContainer.data('gaps-tablet') : $gaps,
-                $mgaps     = swiperContainer.data('gaps-mobile') !== '' ? swiperContainer.data('gaps-mobile') : $tgaps,
-                $pagi      = swiperContainer.find('.octf-swiper-pagination'),
-                $nextEl    = swiperContainer.find('.octf-swiper-button-next'),
-                $prevEl    = swiperContainer.find('.octf-swiper-button-prev');
+                sliderSettings = swiperContainer.data('slider_options');
 
-                var config = {
-                    slidesPerView:  1,
-                    spaceBetween: $gaps,
-                    loop: true,
-                    speed: 800,
-                    slidesPerGroup: $scro,
-                    autoplay: {
-                        delay: 6000,
-                        disableOnInteraction: false,
+            var config = {
+                slidesPerView:  1,
+                spaceBetween: parseInt(sliderSettings.margin_desktop),
+                loop: true,
+                speed: 800,
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                autoplay: {
+                    delay: 6000,
+                    disableOnInteraction: false,
+                },
+                pagination: {
+                    el: swiperContainer.find('.octf-swiper-pagination'),
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev'),
+                },
+                breakpoints: {
+                    360: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile),
+                        spaceBetween: parseInt(sliderSettings.margin_mobile),
                     },
-                    pagination: {
-                        el: $pagi,
-                        clickable: true,
+                    768: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet),
+                        spaceBetween: parseInt(sliderSettings.margin_tablet),
                     },
-                    navigation: {
-                        nextEl: $nextEl,
-                        prevEl: $prevEl,
+                    1024: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                        spaceBetween: parseInt(sliderSettings.margin_desktop),
                     },
-                    breakpoints: {
-                        360: {
-                            slidesPerView: $mshow,
-                            slidesPerGroup: $mscro,
-                            spaceBetween: $mgaps,
-                        },
-                        768: {
-                            slidesPerView: $tshow,
-                            slidesPerGroup: $tscro,
-                            spaceBetween: $tgaps,
-                        },
-                        1024: {
-                            slidesPerView: $show,
-                            slidesPerGroup: $scro,
-                            spaceBetween: $gaps,
-                        },
-                    }
                 }
+            }
 
-            if ( window.elementorFrontend ) {
-                if ( window.elementorFrontend.isEditMode() ) {
-                    OTInitSwiper( swiperContainer, config );
-                } else {
-                    elementorFrontend.on('components:init', () => {
-                        OTInitSwiper( swiperContainer, config, elementorFrontend );
-                    });
-                }
-            } else {
-                OTInitSwiper( swiperContainer, config );
-            }                                       
+            /*Swiper Init*/
+            OTInitSwiper( swiperContainer, config );                                   
         });
     };    
 
@@ -244,61 +247,40 @@
     var teamCarousel = function ($scope, $) {
         $scope.find('.team-slider').each( function () {
             var swiperContainer = $(this),
-                $show     = swiperContainer.data('show') ? swiperContainer.data('show') : 2,
-                $tshow    = swiperContainer.data('show-tablet') ? swiperContainer.data('show-tablet') : 2,
-                $mshow    = swiperContainer.data('show-mobile') ? swiperContainer.data('show-mobile') : 1,
-                $scro     = swiperContainer.data('scroll') ? swiperContainer.data('scroll') : 1,
-                $tscro    = swiperContainer.data('scroll-tablet') ? swiperContainer.data('scroll-tablet') : 1,
-                $mscro    = swiperContainer.data('scroll-mobile') ? swiperContainer.data('scroll-mobile') : 1,                
-                $gaps     = swiperContainer.data('gaps') !== '' ? swiperContainer.data('gaps') : 0,
-                $pagi     = swiperContainer.find('.octf-swiper-pagination'),
-                $nextEl   = swiperContainer.find('.octf-swiper-button-next'),
-                $prevEl   = swiperContainer.find('.octf-swiper-button-prev');
+                sliderSettings = swiperContainer.data('slider_options');
             
-                var config = {
-                    slidesPerView:  1,
-                    spaceBetween: $gaps,
-                    loop: true,
-                    speed: 800,
-                    slidesPerGroup: $scro,
-                    pagination: {
-                        el: $pagi,
-                        clickable: true,
+            var config = {
+                slidesPerView:  1,
+                spaceBetween: parseInt(sliderSettings.margin_desktop),
+                loop: true,
+                speed: 800,
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                pagination: {
+                    el: swiperContainer.find('.octf-swiper-pagination'),
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev'),
+                },
+                breakpoints: {
+                    360: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile),
                     },
-                    navigation: {
-                        nextEl: $nextEl,
-                        prevEl: $prevEl,
+                    768: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet),
                     },
-                    breakpoints: {
-                        360: {
-                          slidesPerView: $mshow,
-                          slidesPerGroup: $mscro,
-                          spaceBetween: $gaps,
-                        },
-                        768: {
-                          slidesPerView: $tshow,
-                          slidesPerGroup: $tscro,
-                          spaceBetween: $gaps,
-                        },
-                        1024: {
-                            slidesPerView: $show,
-                            slidesPerGroup: $scro,
-                            spaceBetween: $gaps,
-                        },
-                    }
+                    1024: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                    },
                 }
-
-            if ( window.elementorFrontend ) {
-                if ( window.elementorFrontend.isEditMode() ) {
-                    OTInitSwiper( swiperContainer, config );
-                } else {
-                    elementorFrontend.on('components:init', () => {
-                        OTInitSwiper( swiperContainer, config, elementorFrontend );
-                    });
-                }
-            } else {
-                OTInitSwiper( swiperContainer, config );
             }
+
+            /*Swiper Init*/
+            OTInitSwiper( swiperContainer, config );
         });
     };
 
@@ -308,63 +290,44 @@
     var blogCarousel = function ($scope, $) {
         $scope.find('.blog-slider').each( function () {
             var swiperContainer = $(this),
-                show     = swiperContainer.data('show') ? swiperContainer.data('show') : 3,
-                tshow    = swiperContainer.data('show-tablet') ? swiperContainer.data('show-tablet') : 2,
-                mshow    = swiperContainer.data('show-mobile') ? swiperContainer.data('show-mobile') : 1,
-                scro     = swiperContainer.data('scroll') ? swiperContainer.data('scroll') : 1,
-                tscro    = swiperContainer.data('scroll-tablet') ? swiperContainer.data('scroll-tablet') : 1,
-                mscro    = swiperContainer.data('scroll-mobile') ? swiperContainer.data('scroll-mobile') : 1,
-                gaps     = swiperContainer.data('gaps') !== '' ? swiperContainer.data('gaps') : 30,
-                tgaps    = swiperContainer.data('gaps-tablet') !== '' ? swiperContainer.data('gaps-tablet') : gaps,
-                mgaps    = swiperContainer.data('gaps-mobile') !== '' ? swiperContainer.data('gaps-mobile') : tgaps,
-                pagi     = swiperContainer.find('.octf-swiper-pagination'),
-                nextEl   = swiperContainer.find('.octf-swiper-button-next'),
-                prevEl   = swiperContainer.find('.octf-swiper-button-prev');
+                sliderSettings = swiperContainer.data('slider_options');
             
-                var config = {
-                    slidesPerView:  1,
-                    spaceBetween: gaps,
-                    loop: false,
-                    speed: 800,
-                    watchOverflow: true,
-                    slidesPerGroup: scro,
-                    pagination: {
-                        el: pagi,
-                        clickable: true,
+            var config = {
+                slidesPerView:  1,
+                spaceBetween: parseInt(sliderSettings.margin_desktop),
+                loop: false,
+                speed: 800,
+                watchOverflow: true,
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                pagination: {
+                    el: swiperContainer.find('.octf-swiper-pagination'),
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev'),
+                },
+                breakpoints: {
+                    360: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile),
+                        spaceBetween: parseInt(sliderSettings.margin_mobile),
                     },
-                    navigation: {
-                        nextEl: nextEl,
-                        prevEl: prevEl,
+                    768: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet),
+                        spaceBetween: parseInt(sliderSettings.margin_tablet),
                     },
-                    breakpoints: {
-                        360: {
-                          slidesPerView: mshow,
-                          slidesPerGroup: mscro,
-                          spaceBetween: mgaps,
-                        },
-                        768: {
-                          slidesPerView: tshow,
-                          slidesPerGroup: tscro,
-                          spaceBetween: tgaps,
-                        },
-                        1024: {
-                            slidesPerView: show,
-                            slidesPerGroup: scro,
-                            spaceBetween: gaps,
-                        },
-                    }
+                    1024: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                        spaceBetween: parseInt(sliderSettings.margin_desktop),
+                    },
                 }
-            if ( window.elementorFrontend ) {
-                if ( window.elementorFrontend.isEditMode() ) {
-                    OTInitSwiper( swiperContainer, config );
-                } else {
-                    elementorFrontend.on('components:init', () => {
-                        OTInitSwiper( swiperContainer, config, elementorFrontend );
-                    });
-                }
-            } else {
-                OTInitSwiper( swiperContainer, config );
             }
+
+            /*Swiper Init*/
+            OTInitSwiper( swiperContainer, config );
         });
     };
 
@@ -374,67 +337,48 @@
     var latestProjectCarousel = function ($scope, $) {
         $scope.find('.project-slider').each( function () {
             var swiperContainer = $(this),
-                show     = swiperContainer.data('show') ? swiperContainer.data('show') : 4,
-                tshow    = swiperContainer.data('show-tablet') ? swiperContainer.data('show-tablet') : 2,
-                mshow    = swiperContainer.data('show-mobile') ? swiperContainer.data('show-mobile') : 1,
-                scro     = swiperContainer.data('scroll') ? swiperContainer.data('scroll') : 1,
-                tscro    = swiperContainer.data('scroll-tablet') ? swiperContainer.data('scroll-tablet') : 1,
-                mscro    = swiperContainer.data('scroll-mobile') ? swiperContainer.data('scroll-mobile') : 1,
-                gaps     = swiperContainer.data('gaps') !== '' ? swiperContainer.data('gaps') : 30,
-                tgaps    = swiperContainer.data('gaps-tablet') !== '' ? swiperContainer.data('gaps-tablet') : gaps,
-                mgaps    = swiperContainer.data('gaps-mobile') !== '' ? swiperContainer.data('gaps-mobile') : tgaps,
-                pagi     = swiperContainer.find('.octf-swiper-pagination'),
-                nextEl   = swiperContainer.find('.octf-swiper-button-next'),
-                prevEl   = swiperContainer.find('.octf-swiper-button-prev');
+                sliderSettings = swiperContainer.data('slider_options');
             
-                var config = {
-                    slidesPerView:  show,
-                    slidesPerGroup: scro,
-                    loop: false,
-                    watchOverflow: true,
-                    autoplay: {
-                        delay: 6000,
-                        disableOnInteraction: false,
+            var config = {
+                slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                loop: false,
+                watchOverflow: true,
+                autoplay: {
+                    delay: 6000,
+                    disableOnInteraction: false,
+                },
+                speed: 800,
+                spaceBetween: parseInt(sliderSettings.margin_desktop),
+                pagination: {
+                    el: swiperContainer.find('.octf-swiper-pagination'),
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: swiperContainer.find('.octf-swiper-button-next'),
+                    prevEl: swiperContainer.find('.octf-swiper-button-prev'),
+                },
+                breakpoints: {
+                    360: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_mobile),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_mobile),
+                        spaceBetween: parseInt(sliderSettings.margin_mobile),
                     },
-                    speed: 800,
-                    spaceBetween: gaps,
-                    pagination: {
-                        el: pagi,
-                        clickable: true,
+                    768: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_tablet),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_tablet),
+                        spaceBetween: parseInt(sliderSettings.margin_tablet),
                     },
-                    navigation: {
-                        nextEl: nextEl,
-                        prevEl: prevEl,
+                    1024: {
+                        slidesPerView: parseInt(sliderSettings.slides_show_desktop),
+                        slidesPerGroup: parseInt(sliderSettings.slides_scroll_desktop),
+                        spaceBetween: parseInt(sliderSettings.margin_desktop),
                     },
-                    breakpoints: {
-                        360: {
-                            slidesPerView: mshow,
-                            slidesPerGroup: mscro,
-                            spaceBetween: mgaps,
-                        },
-                        768: {
-                            slidesPerView: tshow,
-                            slidesPerGroup: tscro,
-                            spaceBetween: tgaps,
-                        },
-                        1024: {
-                            slidesPerView: show,
-                            slidesPerGroup: scro,
-                            spaceBetween: gaps,
-                        },
-                    }
                 }
-            if ( window.elementorFrontend ) {
-                if ( window.elementorFrontend.isEditMode() ) {
-                    OTInitSwiper( swiperContainer, config );
-                } else {
-                    elementorFrontend.on('components:init', () => {
-                        OTInitSwiper( swiperContainer, config, elementorFrontend );
-                    });
-                }
-            } else {
-                OTInitSwiper( swiperContainer, config );
             }
+
+            /*Swiper Init*/
+            OTInitSwiper( swiperContainer, config );
         });
     };
 
@@ -841,6 +785,12 @@
             testimonialSlider2
         );
 
+        /*Testimonials 3*/
+        elementorFrontend.hooks.addAction(
+            "frontend/element_ready/itestimonials3.default",
+            testimonialSlider3
+        );
+
         /*Custom accordions*/
         elementorFrontend.hooks.addAction(
             "frontend/element_ready/iaccordions.default",
@@ -921,7 +871,7 @@
             imageGallery
         );
 
-         /*video popup*/
+        /*video popup*/
         elementorFrontend.hooks.addAction(
             "frontend/element_ready/ivideopopup.default",
             videoPopup

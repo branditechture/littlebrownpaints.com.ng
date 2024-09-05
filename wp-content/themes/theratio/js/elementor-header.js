@@ -4,7 +4,7 @@
   /* --------------------------------------------------
   * side panel
   * --------------------------------------------------*/
-	var element = $('#panel-btn'),
+  var element = $('#panel-btn'),
     sidebar = $('#side-panel');
 
     function panel_handler() {
