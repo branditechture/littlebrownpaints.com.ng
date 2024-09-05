@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Little Brown Paints	</title>
-	<atom:link href="https://littlebrownpaints.com.ng/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://littlebrownpaints.com.ng/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>A product of Auston &#38; Mercy Company Ltd.</description>
 	<lastBuildDate>Thu, 05 Sep 2024 07:18:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
