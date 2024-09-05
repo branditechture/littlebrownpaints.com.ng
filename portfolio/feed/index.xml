@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portfolios &#8211; Little Brown Paints</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://littlebrownpaints.com.ng/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://littlebrownpaints.com.ng/</link>
 	<description>A product of Auston &#38; Mercy Company Ltd.</description>
 	<lastBuildDate>Mon, 11 Oct 2021 09:27:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>./../../wp-content/uploads/2021/10/cropped-favicon-32x32.png</url>
+	<url>https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/cropped-favicon-32x32.png</url>
 	<title>Portfolios &#8211; Little Brown Paints</title>
-	<link>./../../index.html</link>
+	<link>https://littlebrownpaints.com.ng/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Screeding and Painting of Four Palms residence</title>
-		<link>./../screeding-and-painting-of-four-palms-residence/index.html</link>
-					<comments>./../screeding-and-painting-of-four-palms-residence/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-four-palms-residence/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-four-palms-residence/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:06:43 +0000</pubDate>
@@ -46,12 +46,12 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/screeding_project1.jpg'><img fetchpriority="high" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2019/11/screeding_project1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2019/11/screeding_project1-720x720.jpg 720w, ./../../wp-content/uploads/2019/11/screeding_project1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/screeding_project2.jpg'><img decoding="async" width="720" height="720" src="./../../wp-content/uploads/2019/11/screeding_project2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2019/11/screeding_project2-720x720.jpg 720w, ./../../wp-content/uploads/2019/11/screeding_project2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/screeding_project3.jpg'><img decoding="async" width="720" height="720" src="./../../wp-content/uploads/2019/11/screeding_project3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2019/11/screeding_project3-720x720.jpg 720w, ./../../wp-content/uploads/2019/11/screeding_project3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/screeding_project4.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2019/11/screeding_project4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2019/11/screeding_project4-720x720.jpg 720w, ./../../wp-content/uploads/2019/11/screeding_project4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/screeding_project5.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2019/11/screeding_project5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2019/11/screeding_project5-720x720.jpg 720w, ./../../wp-content/uploads/2019/11/screeding_project5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/screeding_project6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2019/11/screeding_project6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2019/11/screeding_project6-720x720.jpg 720w, ./../../wp-content/uploads/2019/11/screeding_project6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project1.jpg'><img fetchpriority="high" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project1-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project2.jpg'><img decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project2-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project3.jpg'><img decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project3-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project4.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project4-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project5.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project5-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project6-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/screeding_project6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
 		</div>
 				</div>
 				</div>
@@ -95,10 +95,10 @@
 				<div class="elementor-element elementor-element-2545374 elementor-widget elementor-widget-heading" data-id="2545374" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"><ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#littlebrown">Little Brown Matt Emulsion</a></li>
-    <li><a href="./../../our-products/index.html#superior">Superior Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlebrown">Little Brown Matt Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#superior">Superior Emulsion</a></li>
   </ol></div>		</div>
 				</div>
 					</div>
@@ -117,7 +117,7 @@
 				<div class="elementor-element elementor-element-c1515db elementor-align-center elementor-widget elementor-widget-ibutton" data-id="c1515db" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -163,15 +163,15 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../screeding-and-painting-of-four-palms-residence/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-four-palms-residence/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Screeding and Painting of Terraces Company Ltd</title>
-		<link>./../screeding-and-painting-of-terraces-company-ltd/index.html</link>
-					<comments>./../screeding-and-painting-of-terraces-company-ltd/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-terraces-company-ltd/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-terraces-company-ltd/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:05:55 +0000</pubDate>
@@ -187,12 +187,12 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/painting_project1.jpg'><img loading="lazy" decoding="async" width="1040" height="780" src="./../../wp-content/uploads/2019/11/painting_project1.jpg" class="attachment-full size-full" alt="" srcset="./../../wp-content/uploads/2019/11/painting_project1.jpg 1040w, ./../../wp-content/uploads/2019/11/painting_project1-300x225.jpg 300w, ./../../wp-content/uploads/2019/11/painting_project1-1024x768.jpg 1024w, ./../../wp-content/uploads/2019/11/painting_project1-768x576.jpg 768w" sizes="(max-width: 1040px) 100vw, 1040px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/painting_project2.jpg'><img loading="lazy" decoding="async" width="1040" height="780" src="./../../wp-content/uploads/2019/11/painting_project2.jpg" class="attachment-full size-full" alt="" srcset="./../../wp-content/uploads/2019/11/painting_project2.jpg 1040w, ./../../wp-content/uploads/2019/11/painting_project2-300x225.jpg 300w, ./../../wp-content/uploads/2019/11/painting_project2-1024x768.jpg 1024w, ./../../wp-content/uploads/2019/11/painting_project2-768x576.jpg 768w" sizes="(max-width: 1040px) 100vw, 1040px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/painting_project3.png'><img loading="lazy" decoding="async" width="717" height="574" src="./../../wp-content/uploads/2019/11/painting_project3.png" class="attachment-full size-full" alt="" srcset="./../../wp-content/uploads/2019/11/painting_project3.png 717w, ./../../wp-content/uploads/2019/11/painting_project3-300x240.png 300w" sizes="(max-width: 717px) 100vw, 717px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/painting_project4.png'><img loading="lazy" decoding="async" width="719" height="553" src="./../../wp-content/uploads/2019/11/painting_project4.png" class="attachment-full size-full" alt="" srcset="./../../wp-content/uploads/2019/11/painting_project4.png 719w, ./../../wp-content/uploads/2019/11/painting_project4-300x231.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/painting_project5.png'><img loading="lazy" decoding="async" width="720" height="553" src="./../../wp-content/uploads/2019/11/painting_project5.png" class="attachment-full size-full" alt="" srcset="./../../wp-content/uploads/2019/11/painting_project5.png 720w, ./../../wp-content/uploads/2019/11/painting_project5-300x230.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2019/11/painting_project6.png'><img loading="lazy" decoding="async" width="717" height="550" src="./../../wp-content/uploads/2019/11/painting_project6.png" class="attachment-full size-full" alt="" srcset="./../../wp-content/uploads/2019/11/painting_project6.png 717w, ./../../wp-content/uploads/2019/11/painting_project6-300x230.png 300w" sizes="(max-width: 717px) 100vw, 717px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project1.jpg'><img loading="lazy" decoding="async" width="1040" height="780" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project1.jpg" class="attachment-full size-full" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project1.jpg 1040w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project1-300x225.jpg 300w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project1-1024x768.jpg 1024w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project1-768x576.jpg 768w" sizes="(max-width: 1040px) 100vw, 1040px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project2.jpg'><img loading="lazy" decoding="async" width="1040" height="780" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project2.jpg" class="attachment-full size-full" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project2.jpg 1040w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project2-300x225.jpg 300w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project2-1024x768.jpg 1024w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project2-768x576.jpg 768w" sizes="(max-width: 1040px) 100vw, 1040px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project3.png'><img loading="lazy" decoding="async" width="717" height="574" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project3.png" class="attachment-full size-full" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project3.png 717w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project3-300x240.png 300w" sizes="(max-width: 717px) 100vw, 717px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project4.png'><img loading="lazy" decoding="async" width="719" height="553" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project4.png" class="attachment-full size-full" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project4.png 719w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project4-300x231.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project5.png'><img loading="lazy" decoding="async" width="720" height="553" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project5.png" class="attachment-full size-full" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project5.png 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project5-300x230.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project6.png'><img loading="lazy" decoding="async" width="717" height="550" src="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project6.png" class="attachment-full size-full" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project6.png 717w, https://littlebrownpaints.com.ng/wp-content/uploads/2019/11/painting_project6-300x230.png 300w" sizes="(max-width: 717px) 100vw, 717px" /></a>
 		</div>
 				</div>
 				</div>
@@ -235,10 +235,10 @@
 				<div class="elementor-element elementor-element-b786b39 elementor-widget elementor-widget-heading" data-id="b786b39" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"><ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#littlebrown">Little Brown Matt Emulsion</a></li>
-    <li><a href="./../../our-products/index.html#superior">Superior Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlebrown">Little Brown Matt Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#superior">Superior Emulsion</a></li>
   </ol></div>		</div>
 				</div>
 					</div>
@@ -256,7 +256,7 @@
 				<div class="elementor-element elementor-element-978a8a8 elementor-align-center elementor-widget elementor-widget-ibutton" data-id="978a8a8" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -274,15 +274,15 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../screeding-and-painting-of-terraces-company-ltd/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-terraces-company-ltd/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Screeding and Painting using Little Brown Products and Services</title>
-		<link>./../screeding-and-painting-using-little-brown-products-and-services/index.html</link>
-					<comments>./../screeding-and-painting-using-little-brown-products-and-services/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-using-little-brown-products-and-services/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-using-little-brown-products-and-services/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:05:22 +0000</pubDate>
@@ -298,11 +298,11 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/little_brown1-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/little_brown1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/little_brown1-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/little_brown1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/little_brown2-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/little_brown2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/little_brown2-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/little_brown2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/little_brown5-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/little_brown5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/little_brown5-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/little_brown5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/little_brown4-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/little_brown4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/little_brown4-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/little_brown4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/little_brown3-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/little_brown3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/little_brown3-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/little_brown3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown1-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown1-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown2-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown2-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown5-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown5-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown4-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown4-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown3-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown3-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/little_brown3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
 		</div>
 				</div>
 				</div>
@@ -357,11 +357,11 @@
 				<div class="elementor-element elementor-element-5e886a46 elementor-widget elementor-widget-heading" data-id="5e886a46" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"><ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#littlebrown">Little Brown Matt Emulsion</a></li>
-    <li><a href="./../../our-products/index.html#superior">Superior Emulsion</a></li>
- <li><a href="./../../our-products/index.html#textcoat">Textcoat</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlebrown">Little Brown Matt Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#superior">Superior Emulsion</a></li>
+ <li><a href="https://littlebrownpaints.com.ng/our-products#textcoat">Textcoat</a></li>
   </ol></div>		</div>
 				</div>
 					</div>
@@ -379,7 +379,7 @@
 				<div class="elementor-element elementor-element-324cf44 elementor-align-center elementor-widget elementor-widget-ibutton" data-id="324cf44" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -423,15 +423,15 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../screeding-and-painting-using-little-brown-products-and-services/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-using-little-brown-products-and-services/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Screeding and Painting of A&#038;K Construction Project</title>
-		<link>./../screeding-and-painting-of-ak-construction-project/index.html</link>
-					<comments>./../screeding-and-painting-of-ak-construction-project/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-ak-construction-project/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-ak-construction-project/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:04:54 +0000</pubDate>
@@ -447,11 +447,11 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_project6.png'><img loading="lazy" decoding="async" width="719" height="610" src="./../../wp-content/uploads/2021/10/ak_project6.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_project6.png 719w, ./../../wp-content/uploads/2021/10/ak_project6-300x255.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_project5.png'><img loading="lazy" decoding="async" width="720" height="551" src="./../../wp-content/uploads/2021/10/ak_project5.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_project5.png 720w, ./../../wp-content/uploads/2021/10/ak_project5-300x230.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_project4.png'><img loading="lazy" decoding="async" width="718" height="566" src="./../../wp-content/uploads/2021/10/ak_project4.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_project4.png 718w, ./../../wp-content/uploads/2021/10/ak_project4-300x236.png 300w" sizes="(max-width: 718px) 100vw, 718px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_project3.png'><img loading="lazy" decoding="async" width="719" height="544" src="./../../wp-content/uploads/2021/10/ak_project3.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_project3.png 719w, ./../../wp-content/uploads/2021/10/ak_project3-300x227.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_project2.png'><img loading="lazy" decoding="async" width="716" height="553" src="./../../wp-content/uploads/2021/10/ak_project2.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_project2.png 716w, ./../../wp-content/uploads/2021/10/ak_project2-300x232.png 300w" sizes="(max-width: 716px) 100vw, 716px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project6.png'><img loading="lazy" decoding="async" width="719" height="610" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project6.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project6.png 719w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project6-300x255.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project5.png'><img loading="lazy" decoding="async" width="720" height="551" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project5.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project5.png 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project5-300x230.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project4.png'><img loading="lazy" decoding="async" width="718" height="566" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project4.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project4.png 718w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project4-300x236.png 300w" sizes="(max-width: 718px) 100vw, 718px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project3.png'><img loading="lazy" decoding="async" width="719" height="544" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project3.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project3.png 719w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project3-300x227.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project2.png'><img loading="lazy" decoding="async" width="716" height="553" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project2.png" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project2.png 716w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_project2-300x232.png 300w" sizes="(max-width: 716px) 100vw, 716px" /></a>
 		</div>
 				</div>
 				</div>
@@ -506,9 +506,9 @@
 				<div class="elementor-element elementor-element-0a61002 elementor-widget elementor-widget-heading" data-id="0a61002" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"><ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#littlestucco">Little Brown Stucco Marble decorative Paint.</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlestucco">Little Brown Stucco Marble decorative Paint.</a></li>
 
   </ol>
 </div>		</div>
@@ -528,7 +528,7 @@
 				<div class="elementor-element elementor-element-dd6308d elementor-align-center elementor-widget elementor-widget-ibutton" data-id="dd6308d" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -572,15 +572,15 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../screeding-and-painting-of-ak-construction-project/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-ak-construction-project/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Taroline Application and Painting of Interior and Exterior Walls of G.S.U Residence</title>
-		<link>./../taroline-application-and-painting-of-interior-and-exterior-walls-of-g-s-u-residence/index.html</link>
-					<comments>./../taroline-application-and-painting-of-interior-and-exterior-walls-of-g-s-u-residence/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/taroline-application-and-painting-of-interior-and-exterior-walls-of-g-s-u-residence/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/taroline-application-and-painting-of-interior-and-exterior-walls-of-g-s-u-residence/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:04:14 +0000</pubDate>
@@ -596,12 +596,12 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/gsu_project6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/gsu_project6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/gsu_project6-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/gsu_project6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/gsu_project5.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/gsu_project5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/gsu_project5-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/gsu_project5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/gsu_project4.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/gsu_project4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/gsu_project4-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/gsu_project4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/gsu_project3.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/gsu_project3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/gsu_project3-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/gsu_project3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/gsu_project2.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/gsu_project2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/gsu_project2-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/gsu_project2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/gsu_project1.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/gsu_project1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/gsu_project1-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/gsu_project1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project6-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project5.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project5-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project4.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project4-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project3.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project3-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project2.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project2-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project1.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project1-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/gsu_project1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
 		</div>
 				</div>
 				</div>
@@ -656,8 +656,8 @@
 				<div class="elementor-element elementor-element-7f08ac6 elementor-widget elementor-widget-heading" data-id="7f08ac6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"> <ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#littlebrown">Little Brown Matt Emulsion</a></li>
-    <li><a href="./../../our-products/index.html#softsheen">Softsheen</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlebrown">Little Brown Matt Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#softsheen">Softsheen</a></li>
   </ol></div>		</div>
 				</div>
 					</div>
@@ -675,7 +675,7 @@
 				<div class="elementor-element elementor-element-31e92a4 elementor-align-center elementor-widget elementor-widget-ibutton" data-id="31e92a4" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -719,15 +719,15 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../taroline-application-and-painting-of-interior-and-exterior-walls-of-g-s-u-residence/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/taroline-application-and-painting-of-interior-and-exterior-walls-of-g-s-u-residence/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Painting of Madam NG Project</title>
-		<link>./../painting-of-madam-ng-project/index.html</link>
-					<comments>./../painting-of-madam-ng-project/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/painting-of-madam-ng-project/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/painting-of-madam-ng-project/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:03:34 +0000</pubDate>
@@ -743,12 +743,12 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/mamang_project6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/mamang_project6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/mamang_project6-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/mamang_project6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/mamang_project5.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/mamang_project5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/mamang_project5-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/mamang_project5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/mamang_project4.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/mamang_project4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/mamang_project4-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/mamang_project4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/mamang_project3.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/mamang_project3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/mamang_project3-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/mamang_project3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/mamang_project2.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/mamang_project2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/mamang_project2-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/mamang_project2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/mamang_project1.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/mamang_project1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/mamang_project1-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/mamang_project1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project6-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project5.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project5-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project4.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project4-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project3.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project3-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project2.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project2-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project1.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project1-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/mamang_project1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
 		</div>
 				</div>
 				</div>
@@ -803,7 +803,7 @@
 				<div class="elementor-element elementor-element-e6b1c68 elementor-widget elementor-widget-heading" data-id="e6b1c68" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"> <ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#littlebrown">Little Brown Matt Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlebrown">Little Brown Matt Emulsion</a></li>
   </ol></div>		</div>
 				</div>
 					</div>
@@ -821,7 +821,7 @@
 				<div class="elementor-element elementor-element-dda8814 elementor-align-center elementor-widget elementor-widget-ibutton" data-id="dda8814" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -865,15 +865,15 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../painting-of-madam-ng-project/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/painting-of-madam-ng-project/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Screeding and Painting of A&#038;K Construction Project</title>
-		<link>./../screeding-and-painting-of-ak-construction-project-2/index.html</link>
-					<comments>./../screeding-and-painting-of-ak-construction-project-2/index.html#respond</comments>
+		<link>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-ak-construction-project-2/</link>
+					<comments>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-ak-construction-project-2/#respond</comments>
 		
 		<dc:creator><![CDATA[pauljosh]]></dc:creator>
 		<pubDate>Mon, 25 Nov 2019 16:02:28 +0000</pubDate>
@@ -889,12 +889,12 @@
 				<div class="elementor-widget-container">
 					<div class="image-gallery">
 		
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_pro6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/ak_pro6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_pro6-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/ak_pro6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_pro5-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/ak_pro5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_pro5-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/ak_pro5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_pro4-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/ak_pro4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_pro4-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/ak_pro4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_pro3-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/ak_pro3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_pro3-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/ak_pro3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_pro2-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/ak_pro2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_pro2-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/ak_pro2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
-<a data-elementor-open-lightbox="no" href='./../../wp-content/uploads/2021/10/ak_pro1-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="./../../wp-content/uploads/2021/10/ak_pro1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="./../../wp-content/uploads/2021/10/ak_pro1-720x720.jpg 720w, ./../../wp-content/uploads/2021/10/ak_pro1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro6.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro6-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro6-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro6-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro5-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro5-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro5-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro5-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro4-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro4-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro4-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro4-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro3-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro3-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro3-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro3-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro2-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro2-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro2-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro2-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+<a data-elementor-open-lightbox="no" href='https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro1-scaled.jpg'><img loading="lazy" decoding="async" width="720" height="720" src="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro1-720x720.jpg" class="attachment-theratio-portfolio-thumbnail-grid size-theratio-portfolio-thumbnail-grid" alt="" srcset="https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro1-720x720.jpg 720w, https://littlebrownpaints.com.ng/wp-content/uploads/2021/10/ak_pro1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></a>
 		</div>
 				</div>
 				</div>
@@ -949,10 +949,10 @@
 				<div class="elementor-element elementor-element-9f397d5 elementor-widget elementor-widget-heading" data-id="9f397d5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default"><ol style="list-style-type: none" class="list-project">
-    <li><a href="./../../our-products/index.html#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
-    <li><a href="./../../our-products/index.html#littlebrown">Little Brown Matt Emulsion</a></li>
-    <li><a href="./../../our-products/index.html#superior">Superior Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bonda">Bond A ready-mixed Exterior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#bondb">Bond B ready-mixed Interior Screeding Material</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#littlebrown">Little Brown Matt Emulsion</a></li>
+    <li><a href="https://littlebrownpaints.com.ng/our-products#superior">Superior Emulsion</a></li>
  
   </ol></div>		</div>
 				</div>
@@ -971,7 +971,7 @@
 				<div class="elementor-element elementor-element-030fa89 elementor-align-center elementor-widget elementor-widget-ibutton" data-id="030fa89" data-element_type="widget" data-widget_type="ibutton.default">
 				<div class="elementor-widget-container">
 					<div class="ot-button">
-			<a href="./../../contacts/index.html" class="octf-btn octf-btn-dark no-line">Contact Us</a>
+			<a href="https://littlebrownpaints.com.ng/contacts/" class="octf-btn octf-btn-dark no-line">Contact Us</a>
 	    </div>
 	    		</div>
 				</div>
@@ -1015,7 +1015,7 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>./../screeding-and-painting-of-ak-construction-project-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://littlebrownpaints.com.ng/portfolio/screeding-and-painting-of-ak-construction-project-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
